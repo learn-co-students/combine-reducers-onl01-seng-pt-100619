@@ -35,5 +35,5 @@ export default function bookApp(
 
     default:
       return state;
-  }
+  } 
 }
